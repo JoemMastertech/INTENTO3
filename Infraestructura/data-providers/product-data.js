@@ -143,71 +143,7 @@ const ProductData = {
   // REFRESCOS
   refrescos: [
     {
-      id: '080ba284-f09c-4755-a080-830ce876327c',
-      nombre: 'RED BULL 250ML',
-      categoria: 'refresco',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/redbull.webp',
-      precio: '$95.00'
-    },
-    {
-      id: '1061ed61-704f-47f5-a817-5794fda97f4e',
-      nombre: 'VASO DE JUGO ARANDANO 355ML',
-      categoria: 'jugo',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-arandano.webp',
-      precio: '$55.00'
-    },
-    {
-      id: '12cf5d2d-8ae1-4068-89e1-a9216de9e874',
-      nombre: 'JARRA DE JUGO MANGO',
-      categoria: 'jugo',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-mango.webp',
-      precio: '$165.00'
-    },
-    {
-      id: '19b835cc-d47a-4dd6-8bd9-535adde425d9',
-      nombre: 'JARRA DE JUGO UVA LT',
-      categoria: 'jugo',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-uva.webp',
-      precio: '$165.00'
-    },
-    {
-      id: '1efe0ce2-c1be-4d64-8a93-4ebe23bce53d',
-      nombre: 'FANTA 355ML',
-      categoria: 'refresco',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/fanta.webp',
-      precio: '$55.00'
-    },
-    {
-      id: '1fe2f634-8c92-421c-a413-bcceaa4cad64',
-      nombre: 'VASO DE JUGO UVA 355ML',
-      categoria: 'jugo',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-uva.webp',
-      precio: '$55.00'
-    },
-    {
-      id: '2023f02c-824d-44e9-8fe1-b7917e3ed661',
-      nombre: 'SQUIRT 355ML',
-      categoria: 'refresco',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/squirt.webp',
-      precio: '$55.00'
-    },
-    {
-      id: '2fef8566-db5b-4d6b-abb6-d8c4ae862fcc',
-      nombre: 'JARRA DE JUGO ARANDANO',
-      categoria: 'jugo',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-arandano.webp',
-      precio: '$165.00'
-    },
-    {
-      id: '37b92395-e398-4a5c-a062-a65cc8eaf8e0',
+      id: '1',
       nombre: 'COCA COLA 355ML',
       categoria: 'refresco',
       tipo_contenido: 'imagen',
@@ -215,7 +151,71 @@ const ProductData = {
       precio: '$55.00'
     },
     {
-      id: '49307ef7-6fd2-4dad-97f1-c0fd189d07cf',
+      id: '2',
+      nombre: 'FANTA 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/fanta.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '3',
+      nombre: 'MANZANA 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/manzana.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '4',
+      nombre: 'MINERAL 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/mineral.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '5',
+      nombre: 'SQUIRT 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/squirt.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '6',
+      nombre: 'QUINA 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/quina.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '7',
+      nombre: 'AGUA 355ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/agua.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '8',
+      nombre: 'RED BULL 250ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/redbull.webp',
+      precio: '$95.00'
+    },
+    {
+      id: '9',
+      nombre: 'BOOST 235ML',
+      categoria: 'refresco',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/boost.webp',
+      precio: '$75.00'
+    },
+    {
+      id: '10',
       nombre: 'JARRA DE JUGO PIÑA LT',
       categoria: 'jugo',
       tipo_contenido: 'imagen',
@@ -223,7 +223,47 @@ const ProductData = {
       precio: '$165.00'
     },
     {
-      id: '4f9f57c6-5697-4e9a-a75d-e75346e01656',
+      id: '11',
+      nombre: 'JARRA DE JUGO UVA LT',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-uva.webp',
+      precio: '$165.00'
+    },
+    {
+      id: '12',
+      nombre: 'JARRA DE JUGO NARANJA',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-naranja.webp',
+      precio: '$165.00'
+    },
+    {
+      id: '13',
+      nombre: 'JARRA DE JUGO ARÁNDANO',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-arandano.webp',
+      precio: '$165.00'
+    },
+    {
+      id: '14',
+      nombre: 'JARRA DE JUGO DURAZNO',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-durazno.webp',
+      precio: '$165.00'
+    },
+    {
+      id: '15',
+      nombre: 'JARRA DE JUGO MANGO',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/jumex-mango.webp',
+      precio: '$165.00'
+    },
+    {
+      id: '16',
       nombre: 'VASO DE JUGO PIÑA 355ML',
       categoria: 'jugo',
       tipo_contenido: 'imagen',
@@ -231,7 +271,39 @@ const ProductData = {
       precio: '$55.00'
     },
     {
-      id: '59da687b-ba60-444a-9209-5b7fa3307a2f',
+      id: '17',
+      nombre: 'VASO DE JUGO UVA 355ML',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-uva.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '18',
+      nombre: 'VASO DE JUGO NARANJA 355ML',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-naranja.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '19',
+      nombre: 'VASO DE JUGO ARÁNDANO 355ML',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-arandano.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '20',
+      nombre: 'VASO DE JUGO DURAZNO 355ML',
+      categoria: 'jugo',
+      tipo_contenido: 'imagen',
+      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/refrescos/vaso-durazno.webp',
+      precio: '$55.00'
+    },
+    {
+      id: '21',
       nombre: 'VASO DE JUGO MANGO 355ML',
       categoria: 'jugo',
       tipo_contenido: 'imagen',
@@ -239,58 +311,171 @@ const ProductData = {
       precio: '$55.00'
     }
   ],
-  
-  // CERVEZAS
-  cervezas: [
-    {
-      id: '06bd71d5-e1c3-45c5-a55c-46002e3151f7',
-      nombre: 'TECATE ROJA',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tecate-roja.webp',
-      precio: '$75.00'
-    },
-    {
-      id: '0e3fe748-3620-4478-8043-4475c6698d52',
-      nombre: 'ULTRA',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/ultra.webp',
-      precio: '$75.00'
-    },
-    {
-      id: '194e4a0f-2b5d-434b-8bdb-98873b797f3c',
-      nombre: 'TECATE ÁMBAR',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tecate-ambar.webp',
-      precio: '$75.00'
-    },
-    {
-      id: '32808649-760d-4001-b23e-8da5450cafa2',
-      nombre: 'HEINEKEN',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/heineken.webp',
-      precio: '$75.00'
-    },
-    {
-      id: '4f3bcfce-c7dc-45bd-8686-a88936dbdd65',
-      nombre: 'XX ULTRA',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/xx-ultra.webp',
-      precio: '$75.00'
-    },
-    {
-      id: '5430c691-5b44-4410-84ce-37a1414dd335',
-      nombre: 'XX ÁMBAR',
-      categoria: 'cerveza',
-      tipo_contenido: 'imagen',
-      ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/xx-ambar.webp',
-      precio: '$75.00'
-    }
-  ],
+
+ // CERVEZAS
+ cervezas: [
+  {
+    id: '1',
+    nombre: 'INDIO',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/indio.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '2',
+    nombre: 'TECATE ROJA',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tecate-roja.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '3',
+    nombre: 'TECATE LIGHT',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tecate-ligth.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '4',
+    nombre: 'TECATE ÁMBAR',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tecate-ambar.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '5',
+    nombre: 'XX ÁMBAR',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/xx-ambar.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '6',
+    nombre: 'XX LAGER',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/laguer.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '7',
+    nombre: 'BOHEMIA CLARA',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/bohemia-clara.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '8',
+    nombre: 'BOHEMIA OSCURA',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/bohemia-oscura.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '9',
+    nombre: 'ULTRA',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/ultra.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '10',
+    nombre: 'XX ULTRA',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/xx-ambar.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '11',
+    nombre: 'HEINEKEN',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/heineken.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '12',
+    nombre: 'HEINEKEN 00',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/00-heineken.webp',
+    precio: '$75.00'
+  },
+  {
+    id: '13',
+    nombre: 'TARRO DE CERVEZA CLARO LT',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tarro-claro.webp',
+    precio: '$110.00'
+  },
+  {
+    id: '14',
+    nombre: 'TARRO DE CERVEZA OSCURO LT',
+    categoria: 'cerveza',
+    tipo_contenido: 'imagen',
+    ruta_archivo: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/cervezas/tarro-oscuro.webp',
+    precio: '$110.00'
+  },
+  // SERVICIOS ADICIONALES
+  {
+    id: '15',
+    nombre: 'VASO MICHELADO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$15.00'
+  },
+  {
+    id: '16',
+    nombre: 'VASO CUBANO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$20.00'
+  },
+  {
+    id: '17',
+    nombre: 'TARRO LT CUBANO CLARO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$140.00'
+  },
+  {
+    id: '18',
+    nombre: 'TARRO LT CUBANO OSCURO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$140.00'
+  },
+  {
+    id: '19',
+    nombre: 'TARRO LT MICHELADO CLARO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$125.00'
+  },
+  {
+    id: '20',
+    nombre: 'TARRO LT MICHELADO OSCURO',
+    categoria: 'servicio',
+    tipo_contenido: 'imagen',
+    ruta_archivo: '',
+    precio: '$25.00'
+  }
+],
   
   // LICORES CATEGORÍAS
   licoresCategories: [
@@ -587,137 +772,258 @@ const ProductData = {
     }
   ],
 
-  // TEQUILA
-  tequilas: [
-    {
-      id: '1',
-      nombre: 'CUERVO 1800 CRISTALINO 700ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/1800-cristalino.webp',
-      precioBotella: '$1,790.00',
-      precioLitro: '$435.00',
-      precioCopa: '$170.00'
-    },
-    {
-      id: '2',
-      nombre: 'CUERVO 1800 REPOSADO 700 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/1800-reposado.webp',
-      precioBotella: '$1,265.00',
-      precioLitro: '$305.00',
-      precioCopa: '$135.00'
-    },
-    {
-      id: '3',
-      nombre: 'CUERVO ESPECIAL 695 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/cuervo-especial.webp',
-      precioBotella: '$885.00',
-      precioLitro: '$150.00',
-      precioCopa: '--'
-    },
-    {
-      id: '4',
-      nombre: 'DON JULIO 70 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/don-julio-70.webp',
-      precioBotella: '$1,865.00',
-      precioLitro: '$465.00',
-      precioCopa: '$170.00'
-    },
-    {
-      id: '5',
-      nombre: 'DON JULIO BLANCO 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/don-julio-blanco.webp',
-      precioBotella: '$1,325.00',
-      precioLitro: '$320.00',
-      precioCopa: '$130.00'
-    }
-  ],
+// TEQUILA
+tequilas: [
+  {
+    id: '1',
+    nombre: 'CUERVO 1800 CRISTALINO 700ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/1800-cristalino.webp',
+    precioBotella: '$1,790.00',
+    precioLitro: '$435.00',
+    precioCopa: '$170.00'
+  },
+  {
+    id: '2',
+    nombre: 'CUERVO 1800 REPOSADO 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/1800-reposado.webp',
+    precioBotella: '$1,265.00',
+    precioLitro: '$305.00',
+    precioCopa: '$135.00'
+  },
+  {
+    id: '3',
+    nombre: 'CUERVO ESPECIAL 695 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/cuervo-especial.webp',
+    precioBotella: '$885.00',
+    precioLitro: '$150.00',
+    precioCopa: '--'
+  },
+  {
+    id: '4',
+    nombre: 'DON JULIO 70 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/don-julio-70.webp',
+    precioBotella: '$1,865.00',
+    precioLitro: '$465.00',
+    precioCopa: '$170.00'
+  },
+  {
+    id: '5',
+    nombre: 'DON JULIO BLANCO 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/don-julio-blanco.webp',
+    precioBotella: '$1,325.00',
+    precioLitro: '$320.00',
+    precioCopa: '$130.00'
+  },
+  {
+    id: '6',
+    nombre: 'DON JULIO REPOSADO 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/don-julio-reposado.webp',
+    precioBotella: '$1,395.00',
+    precioLitro: '$380.00',
+    precioCopa: '$150.00'
+  },
+  {
+    id: '7',
+    nombre: 'HERRADURA REPOSADO 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/herradura-reposado.webp',
+    precioBotella: '$1,435.00',
+    precioLitro: '$360.00',
+    precioCopa: '--'
+  },
+  {
+    id: '8',
+    nombre: 'MAESTRO DOBEL DIAMANTE',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/maestro-dobel-diamante.webp',
+    precioBotella: '$1,780.00',
+    precioLitro: '$340.00',
+    precioCopa: '$140.00'
+  },
+  {
+    id: '9',
+    nombre: 'TRADICIONAL CRISTALINO 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/tradicional-cristalino.webp',
+    precioBotella: '$1,200.00',
+    precioLitro: '$285.00',
+    precioCopa: '$115.00'
+  },
+  {
+    id: '10',
+    nombre: 'TRADICIONAL PLATA 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/tradicional-plata.webp',
+    precioBotella: '$1,000.00',
+    precioLitro: '$255.00',
+    precioCopa: '$115.00'
+  },
+  {
+    id: '11',
+    nombre: 'TRADICIONAL REPOSADO 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/tequila/tradicional.webp',
+    precioBotella: '$1,100.00',
+    precioLitro: '$285.00',
+    precioCopa: '$105.00'
+  }
+],
 
-  // VODKA
-  vodkas: [
-    {
-      id: '1',
-      nombre: 'ABSOLUT AZUL 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-azul.webp',
-      precioBotella: '$1,085.00',
-      precioLitro: '$275.00',
-      precioCopa: '$110.00'
-    },
-    {
-      id: '2',
-      nombre: 'ABSOLUT CITRON 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-citron.webp',
-      precioBotella: '$1,090.00',
-      precioLitro: '$275.00',
-      precioCopa: '$110.00'
-    },
-    {
-      id: '3',
-      nombre: 'ABSOLUT MANDRIN 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-mandarin.webp',
-      precioBotella: '$1,090.00',
-      precioLitro: '$275.00',
-      precioCopa: '$110.00'
-    },
-    {
-      id: '4',
-      nombre: 'ABSOLUT RASPBERRI 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-raspberri.webp',
-      precioBotella: '$1,090.00',
-      precioLitro: '$275.00',
-      precioCopa: '$110.00'
-    },
-    {
-      id: '5',
-      nombre: 'GREY GOOSE 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/grey-goose.webp',
-      precioBotella: '$1,580.00',
-      precioLitro: '$395.00',
-      precioCopa: '$135.00'
-    }
-  ],
 
-  // WHISKY
-  whiskies: [
-    {
-      id: '1',
-      nombre: 'BLACK & WHITE 700 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/black-and-white.webp',
-      precioBotella: '$940.00',
-      precioLitro: '$255.00',
-      precioCopa: '$105.00'
-    },
-    {
-      id: '2',
-      nombre: 'BUCHANANS 18 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-18.webp',
-      precioBotella: '$3,200.00',
-      precioLitro: '--',
-      precioCopa: '--'
-    },
-    {
-      id: '3',
-      nombre: 'BUCHANANS 12 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-12.webp',
-      precioBotella: '$1,800.00',
-      precioLitro: '$455.00',
-      precioCopa: '$165.00'
-    },
-    {
-      id: '4',
-      nombre: 'BUCHANANS MASTER 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-master.webp',
-      precioBotella: '$2,100.00',
-      precioLitro: '$530.00',
-      precioCopa: '$190.00'
-    },
-    {
-      id: '5',
-      nombre: 'BUCHANANS TWO SOULS 750 ML',
-      imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-two-souls.webp',
-      precioBotella: '$1,685.00',
-      precioLitro: '$410.00',
-      precioCopa: '$155.00'
-    }
-  ],
+// VODKA
+vodkas: [
+  {
+    id: '1',
+    nombre: 'ABSOLUT AZUL 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-azul.webp',
+    precioBotella: '$1,085.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  },
+  {
+    id: '2',
+    nombre: 'ABSOLUT CITRON 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-citron.webp',
+    precioBotella: '$1,090.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  },
+  {
+    id: '3',
+    nombre: 'ABSOLUT MANDRIN 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-mandrin.webp',
+    precioBotella: '$1,090.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  },
+  {
+    id: '4',
+    nombre: 'ABSOLUT RASPBERRI 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/absolut-raspberri.webp',
+    precioBotella: '$1,090.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  },
+  {
+    id: '5',
+    nombre: 'GREY GOOSE 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/grey-goose.webp',
+    precioBotella: '$1,580.00',
+    precioLitro: '$395.00',
+    precioCopa: '$135.00'
+  },
+  {
+    id: '6',
+    nombre: 'SMIRNOFF 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/Smirnoff.webp',
+    precioBotella: '$875.00',
+    precioLitro: '$220.00',
+    precioCopa: '$100.00'
+  },
+  {
+    id: '7',
+    nombre: 'SMIRNOFF TAMARINDO 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/smirnoff-tamarindo.webp',
+    precioBotella: '$855.00',
+    precioLitro: '$225.00',
+    precioCopa: '$100.00'
+  },
+  {
+    id: '8',
+    nombre: 'STOLICHNAYA 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/vodka/stolichnaya.webp',
+    precioBotella: '$1,110.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  }
+],
+
+ // WHISKY
+whiskies: [
+  {
+    id: '1',
+    nombre: 'BLACK & WHITE 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/black-and-white.webp',
+    precioBotella: '$940.00',
+    precioLitro: '$255.00',
+    precioCopa: '$105.00'
+  },
+  {
+    id: '2',
+    nombre: 'BUCHANANS 18 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-18.webp',
+    precioBotella: '$3,200.00',
+    precioLitro: '--',
+    precioCopa: '--'
+  },
+  {
+    id: '3',
+    nombre: 'BUCHANANS 12 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-12.webp',
+    precioBotella: '$1,800.00',
+    precioLitro: '$455.00',
+    precioCopa: '$165.00'
+  },
+  {
+    id: '4',
+    nombre: 'BUCHANANS MASTER 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-masters.webp',
+    precioBotella: '$2,100.00',
+    precioLitro: '$530.00',
+    precioCopa: '$190.00'
+  },
+  {
+    id: '5',
+    nombre: 'BUCHANANS TWO SOULS 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/buchanans-two-souls.webp',
+    precioBotella: '$1,685.00',
+    precioLitro: '$410.00',
+    precioCopa: '$155.00'
+  },
+  {
+    id: '6',
+    nombre: 'CHIVAS REGAL 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/chivas.webp',
+    precioBotella: '$1,685.00',
+    precioLitro: '$410.00',
+    precioCopa: '$155.00'
+  },
+  {
+    id: '7',
+    nombre: 'J.W. BLACK LABEL 750 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/etiqueta-negra.webp',
+    precioBotella: '$1,815.00',
+    precioLitro: '$460.00',
+    precioCopa: '$170.00'
+  },
+  {
+    id: '8',
+    nombre: 'J.W. GREEN LABEL 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/etiqueta-verde.webp',
+    precioBotella: '$2,990.00',
+    precioLitro: '--',
+    precioCopa: '--'
+  },
+  {
+    id: '9',
+    nombre: 'J.W. RED LABEL 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/etiqueta-roja.webp',
+    precioBotella: '$1,090.00',
+    precioLitro: '$275.00',
+    precioCopa: '$110.00'
+  },
+  {
+    id: '10',
+    nombre: 'JACK DANIELS 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/jack-daniels.webp',
+    precioBotella: '$1,240.00',
+    precioLitro: '$255.00',
+    precioCopa: '$125.00'
+  },
+  {
+    id: '11',
+    nombre: 'JACK DANIELS HONEY 700 ML',
+    imagen: 'https://udtlqjmrtbcpdqknwuro.supabase.co/storage/v1/object/public/productos/imagenes/bebidas/licores/whisky/jack-honey.webp',
+    precioBotella: '$1,190.00',
+    precioLitro: '--',
+    precioCopa: '--'
+  }
+],
 
   // ALITAS
   alitas: [
